@@ -1,6 +1,7 @@
 # Simulated-annealing-8-queens
 
 ### Trabalho de Inteligência Artificial que consiste em um código que resolve o problema das 8 rainhas junto com uma têmpera simulada.<br>
+>Colaboradoras: Eduarda Elger ([GitHub Profile](https://github.com/EduardaElger)), Ellen Bonafin ([GitHub Profile](https://github.com/EllenBonafin)) e Heloisa Alves ([GitHub Profile](https://github.com/Helogizzy))
 
 <br>**Problema:**<br>
  Em um tabuleiro NxN temos N rainhas, o objetivo é colocar as rainhas no tabuleiro de forma em que elas não se ataquem. No xadrez as rainhas podem se movimentar na vertical, horizontal e diagonal. Para facilitar a implementação foi considerado:
