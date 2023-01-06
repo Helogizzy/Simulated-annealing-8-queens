@@ -4,6 +4,7 @@
 >Colaboradoras: Eduarda Elger ([GitHub Profile](https://github.com/EduardaElger)), Ellen Bonafin ([GitHub Profile](https://github.com/EllenBonafin)) e Heloisa Alves ([GitHub Profile](https://github.com/Helogizzy))
 
 <br>**Problema:**<br>
+
  Em um tabuleiro NxN temos N rainhas, o objetivo é colocar as rainhas no tabuleiro de forma em que elas não se ataquem. No xadrez as rainhas podem se movimentar na vertical, horizontal e diagonal. Para facilitar a implementação foi considerado:
  - Nunca terá mais de uma rainha na mesma coluna.
  - A contagem de ataques sempre será da rainha atual para frente, nunca será olhado para trás.
@@ -15,7 +16,7 @@
  - Caso a temperatura chege perto de 1 o código para o seu processamento, a solução não foi encontrada. 
 
 <br>**Sobre o código:**<br>
-- O número de ataques e o tabuleiro são apresentados via terminal<br>
+- O número de ataques, temperatura e o tabuleiro são apresentados via terminal.<br>
 - O código funciona para quaisquer dimensões, basta mudar o número de N na linha 8:
 ```
 global N 
